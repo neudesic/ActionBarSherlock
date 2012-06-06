@@ -1,4 +1,4 @@
-ActionBarSherlock - neudesic fork
+ActionBarSherlock - neudesic fork2
 =================
 
 ActionBarSherlock is an standalone library designed to facilitate the use of
